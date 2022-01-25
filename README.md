@@ -8,6 +8,6 @@
 
 ## Scratch 相关站点
 - [Scratch - github](https://github.com/LLK)
-- [客户端下载](https://scratch.mit.edu/download)
-
+- [在线 gui](https://llk.github.io/scratch-gui/develop/)
+- [客户端 下载](https://scratch.mit.edu/download)
 
